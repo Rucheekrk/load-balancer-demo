@@ -1,0 +1,4 @@
+__pycache__/      # Python bytecode cache directory (auto-generated)
+*.pyc             # Compiled Python bytecode files
+.env              # Environment variables / secrets (should never be committed)
+.DS_Store         # macOS system metadata file
